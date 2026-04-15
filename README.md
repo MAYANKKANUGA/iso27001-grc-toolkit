@@ -40,7 +40,7 @@ and policy development.
 - NIST Cybersecurity Framework
 - SOC 2 Trust Services Criteria
 - RBI Cybersecurity Framework
-- PDPB
+- DPDPA
 
 ## Certification Reference
 ISO 27001:2022 Lead Implementer — BSI
