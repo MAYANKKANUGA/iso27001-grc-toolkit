@@ -16,7 +16,7 @@ and policy development.
 - **Industry:** Fintech / Payment Processing
 - **Size:** 100 employees
 - **Locations:** Bengaluru, Mumbai
-- **Compliance Requirements:** ISO 27001:2022, RBI Guidelines, PDPB
+- **Compliance Requirements:** ISO 27001:2022, RBI Guidelines, DPDPA
 
 ## Repository Structure
 | Folder | Contents |
