@@ -16,7 +16,7 @@ and policy development.
 - **Industry:** Fintech / Payment Processing
 - **Size:** 100 employees
 - **Locations:** Bengaluru, Mumbai
-- **Compliance Requirements:** ISO 27001:2022, RBI Guidelines, DPDPA
+- **Compliance Requirements:** ISO 27001:2022, RBI Guidelines, PDCA
 
 ## Repository Structure
 | Folder | Contents |
@@ -40,7 +40,7 @@ and policy development.
 - NIST Cybersecurity Framework
 - SOC 2 Trust Services Criteria
 - RBI Cybersecurity Framework
-- DPDPA
+- PDCA
 
 ## Certification Reference
 ISO 27001:2022 Lead Implementer — BSI
